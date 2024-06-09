@@ -1,0 +1,18 @@
+:root {
+    --color-01: #2D2D2D;
+    ;
+}
+
+.text-color-01 {
+    color: var(--color-01);
+}
+
+
+.fw-600 {
+    font-weight: 600 !important;
+}
+
+.fs-17 {
+    font-size: 17px !important;
+}
+
